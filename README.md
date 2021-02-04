@@ -4,10 +4,6 @@ A starter project for making Bootstrap 5 themes with Sass
 *** This is simple starter project to help you get started quickly when making a custom Bootstrap theme.
 
 
-## What this project does
-
-This repository includes a project structure with a build script that builds a custom CSS version of Bootstrap 5,. You can clone this repository, run the npm run test  and go right into modifying variables and adding styles. There's also an HTML file that contains a neatly organized collection of Bootstrap components that fit a 1920x1080 display, so you can instantly see the outcome.
-
 ## Prerequisites
 
 This works on Windows, macOS and Linux.
@@ -19,6 +15,7 @@ You can get Node at `nodejs.org`, then install node-sass using `npm install node
 1. Clone this repo
 2. Run npm install
 3. Look at index.html (ideally with a local development webserver)
-4. Add any Bootstrap Sass variables into scss/_custom-variables.scss
+4. Add any Bootstrap Sass variables into scss
+`/_custom-variables.scss
 Add any custom styles into scss/_custom-styles.scss. You can use Bootstrap's mixins here.
-Repeat steps 4 to 6 until you like what you see :-)
+Repeat steps 4 to 6 until you like what you see :-)`
