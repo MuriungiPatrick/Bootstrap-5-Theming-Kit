@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "learning bootstrap v5 from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-sass sass/main.scss assets/css/bootstrap.css -w"
+   
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap",
+    "v5",
+    "learn",
+    "bootstrap"
+  ],
+  "author": "patrick muriungi",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "bootstrap": "^5.0.0-beta1",
+    "postcss-cli": "^8.3.1"
+  }
+}
