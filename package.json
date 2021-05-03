@@ -4,7 +4,7 @@
   "description": "learning bootstrap v5 from scratch",
   "main": "index.js",
   "scripts": {
-    "test": "sass --watch sass:css/bootstrap.css"
+    "compile:sass": "sass --watch sass:css/bootstrap.css"
    
   },
   "keywords": [
