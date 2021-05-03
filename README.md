@@ -7,8 +7,8 @@ A starter project for making Bootstrap 5 themes with Sass
 ## Prerequisites
 
 This works on Windows, macOS and Linux.
-Node Package Manager are required. Make sure you can `run npm -v.`
-You can get Node at `nodejs.org`, then install node-sass using `npm install node-sass --save-dev`
+Node Package Manager are required. Make sure you can `run node --v.`
+You can get Node at `nodejs.org`, then install dart-sass using `npm install sass --save-dev`
 
 ## Getting started
 
