@@ -17,11 +17,11 @@
   "author": "patrick muriungi",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^5.0.0"
+    "sass": "^1.32.8"
   },
   "dependencies": {
     "autoprefixer": "^10.2.4",
-    "bootstrap": "^5.0.0-beta1",
+    "bootstrap": "^5.0.0-beta3",
     "postcss-cli": "^8.3.1"
   }
 }
