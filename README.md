@@ -17,7 +17,7 @@ You can get Node at `nodejs.org`, then install dart-sass using `npm install sass
 
 1. Clone this repo
 2. Run npm install
-3. Look at index.html (ideally with a local development webserver)
+3. Look at theming-kit.html (ideally with a local development webserver)
 4. Add any Bootstrap 5 Sass variables  you want to override into `scss/_custom.scss` :-) by copying them from bootstrap folder.
  ```node_modules/bootstrap/scss/_variables.scss```
 5. enjoy.
