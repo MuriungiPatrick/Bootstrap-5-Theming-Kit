@@ -15,6 +15,12 @@ You can get Node at `nodejs.org`, then install dart-sass using `npm install sass
 
 ## Getting started
 
+###NOTE: 
+
+1. If you have bootstrap 5 already installed just copy theming-kit.html to your project and then link the stylesheet which has bootstrap 5 to the head section.
+
+#### for stand alone use follow below instructions
+
 1. Clone this repo 
 2. Then cd into to the clone project which will be (Bootstrap-5-Theming-Kit)
 3. Run npm install
