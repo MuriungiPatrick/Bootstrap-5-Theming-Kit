@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass --watch scss:assets/css"
-   
   },
   "keywords": [
     "bootstrap",
@@ -17,11 +16,11 @@
   "author": "patrick muriungi",
   "license": "ISC",
   "devDependencies": {
-    "sass": "^1.32.8"
+    "sass": "^1.42.1"
   },
   "dependencies": {
     "autoprefixer": "^10.2.4",
-    "bootstrap": "^5.0.0",
+    "bootstrap": "^5.1.1",
     "postcss-cli": "^8.3.1"
   }
 }
