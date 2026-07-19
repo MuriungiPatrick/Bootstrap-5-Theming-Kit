@@ -1,8 +1,13 @@
-// #########################################################
+// ###########################################################################
 //            COPY BOOTSTRAP VARIABLES YOU NEED TO OVERIDE INTO THIS FILE            
 //              WE HAVE AFEW OVERIDES ALREADY
-// #########################################################
+// ###########################################################################
             
 // COPY VARIABLES YOU WANT TO OVRIDE HERE
+
+
+$primary: #0852ff;
+$font-family-base: 'Inter', sans-serif;
+
 
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
