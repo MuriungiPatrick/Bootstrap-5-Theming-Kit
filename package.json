@@ -4,7 +4,7 @@
   "description": "learning bootstrap v5 from scratch",
   "main": "index.js",
   "scripts": {
-    "build-css": "sass scss/custom.scss dist/css/custom.css",
+    "build-css": "sass scss/style.scss dist/css/style.css",
     "watch-css": "sass --watch scss:dist/css"
   },
   "keywords": [
