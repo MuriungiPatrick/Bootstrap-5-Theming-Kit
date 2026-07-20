@@ -1,6 +1,6 @@
 # Bootstrap v5 Theme Kit
 
-A starter project for customizing Bootstrap 5 themes with Sass
+A starter project for Bootstrap 5 themes with Sass
 
 This is simple starter project to help you get started quickly when making a custom Bootstrap theme.
 
