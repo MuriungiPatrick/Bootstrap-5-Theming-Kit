@@ -4,7 +4,7 @@
 // ###########################################################################      
 
 
-$primary: #05ebef;
+$primary: #053cef;
 $font-family-base: "Roboto", sans-serif;
 
-@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@use "../node_modules/bootstrap/scss/bootstrap.scss" as bs;
